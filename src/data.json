@@ -1,0 +1,30 @@
+
+    [
+    {
+      "id":"1" , 
+      "Name":"Toni" , 
+      "Department":"ISE" , 
+      "Event":"Work from Home Challenge" ,
+      "Country":"Zurich",
+      "src": "../img/download.jpg",
+      "Coins": "2000"
+    },
+    {
+      "id":"2" , 
+      "Name":"Steve" , 
+      "Department":"TOC" , 
+      "Event":"Tocathon" ,
+      "Country":"US" ,
+      "src": "../img/download.jpg",
+      "Coins": "2000"
+    },
+    {
+      "id":"3" , 
+      "Name":"Mike" , 
+      "Department":"FRAS" , 
+      "Event":"CSR" ,
+      "Country":"india" ,
+        "src": "../img/download.jpg",
+      "Coins": "2000"
+    }
+]
